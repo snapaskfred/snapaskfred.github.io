@@ -11,5 +11,11 @@ h4{
 
 .people{
 	background-color: #FFFFF5;
+	margin-top: 10%;
+	padding-bottom:20%; 
+	padding-top: 10%;
 }
 
+.feature{
+	margin-left:7%;
+}
