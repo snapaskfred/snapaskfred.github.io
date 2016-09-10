@@ -7,6 +7,7 @@ h4{
 }
 .points{
 	font-size: 1.2em;
+	padding: 5%;
 }
 
 .people{
@@ -17,5 +18,5 @@ h4{
 }
 
 .feature{
-	margin-left:7%;
+	padding:7%;
 }
